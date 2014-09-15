@@ -1,5 +1,5 @@
 //
-//  ABViewController.h
+//  ABTableViewController.h
 //  UITableViewController
 //
 //  Created by Ronald Behee on 9/15/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ABViewController : UIViewController
+@interface ABTableViewController : UITableViewController
 
 @end
